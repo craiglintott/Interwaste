@@ -29,7 +29,7 @@
                 <div class="col-md-6">
                     <h3>Our vision:</h3>
                     <hr>
-                    <p class="blue">
+                    <p class="blue">TESTING ONLY
                     Interwaste and its Group of companies are dedicated to securing the future viability of Southern Africa through holistic waste management practices - striving for cost effectiveness and global best practice in environmentally-friendly waste management solutions.
                     </p>
                     <p>
